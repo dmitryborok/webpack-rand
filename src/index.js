@@ -1,3 +1,7 @@
+const { APIManager } = require("./APIManager")
+const { Renderer } = require("./Renderer")
+import './style.css';
+import 'jquery';
 
 
 const renderer = new Renderer()
